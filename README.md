@@ -2,7 +2,8 @@
 Extracts information from current machine
 Intended use case:
 - To be used in a machine controlled remotely to extract important information
-Information extracted inxludes
+
+Information extracted includes
 - Internal IP address
 - External Ip address
 - Mac address
