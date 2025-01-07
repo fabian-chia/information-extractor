@@ -1,7 +1,7 @@
 # information-extractor
 Extracts information from current machine
 Intended use case:
-- To be used in a machine controlled remotely to extract important information
+- To be used in a machine controlled remotely to extract information about the remote machine
 
 Information extracted includes
 - Internal IP address
